@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Noto Sans Tamil', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+.font-tamil-serif {
+  font-family: 'Noto Serif Tamil', Georgia, 'Times New Roman', serif;
+}
+
+.font-tamil-sans {
+  font-family: 'Noto Sans Tamil', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.font-serif-display {
+  font-family: 'Playfair Display', 'Noto Serif Tamil', Georgia, serif;
+}
+
+.font-brand {
+  font-family: 'Cinzel', 'Noto Serif Tamil', serif;
+}
+
+/* Custom delicate book aesthetic parchment patterns */
+.bg-parchment {
+  background-color: #FDFBF7;
+}
+
+.bg-paper-warm {
+  background-color: #F8F4EC;
+}
+
+.border-warm {
+  border-color: rgba(68, 52, 38, 0.12);
+}

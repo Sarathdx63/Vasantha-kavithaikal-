@@ -1,0 +1,6 @@
+{
+  "name": "வசந்த கவிதைகள் (Vasantha Kavithaigal)",
+  "description": "தமிழ் கவிதைகள் மற்றும் வெளியிடப்பட்ட நூல்களுக்கான முதன்மையான இலக்கிய தளம் - Vasantha Kavithaigal Tamil Poetry & Literary Books Portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
